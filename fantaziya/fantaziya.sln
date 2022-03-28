@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fantaziya", "fantaziya.csproj", "{983E0442-036F-4D2B-ADA2-1817DCCBE962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983E0442-036F-4D2B-ADA2-1817DCCBE962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983E0442-036F-4D2B-ADA2-1817DCCBE962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983E0442-036F-4D2B-ADA2-1817DCCBE962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983E0442-036F-4D2B-ADA2-1817DCCBE962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8EA2DEC-4096-41CC-9DAA-404252F2F35C}
+	EndGlobalSection
+EndGlobal
